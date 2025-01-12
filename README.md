@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jagrutikaulkar
-- 👀 I’m interested in coading
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning advanced java,php,dbms
-- 💞️ I’m looking to collaborate on ----
-- 📫 How to reach me ...
+-  I'm currently pursuing Engineering at Pune Institute of Computer Technology
 
 <!---
 jagrutikaulkar/jagrutikaulkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
