@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jagrutikaulkar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning advanced java,php,dbms
 -  I'm currently pursuing Engineering at Pune Institute of Computer Technology
 
 <!---
