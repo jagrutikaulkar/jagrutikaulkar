@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagrutikaulkar
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development, ML
 -  I'm currently pursuing Engineering at Pune Institute of Computer Technology
 
 <!---
