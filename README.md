@@ -3,7 +3,7 @@
 # 👩‍💻 Jagruti Kaulkar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Backend+Focused+Full+Stack+Developer;Machine+Learning+Enthusiast;IT+Engineering+Student+%7C+CGPA+9.80;Building+Scalable+and+Intelligent+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Backend+Focused+Full+Stack+Developer;Machine+Learning+Enthusiast;IT+Engineering+Student;Building+Scalable+and+Intelligent+Systems+🚀" />
 </p>
 
 ---
